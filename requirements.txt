@@ -1,0 +1,8 @@
+pandas
+numpy
+playsound
+mediapipe
+streamlit
+opencv-python
+tensorflow
+keras
